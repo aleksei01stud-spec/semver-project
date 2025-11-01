@@ -1,4 +1,4 @@
-print("Hello world!!")
+print("Hello Aleksei!!")
 
 name = input("What is your name? ")
 print(f"Nice to meet you, {name}!")
@@ -7,3 +7,4 @@ if name == "":
 print(f"Nice to meet you, {name}!")
 print(f"Nice to meet you, {name}!")
 print(f"Your name has {len(name)} letters!")
+
